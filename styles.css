@@ -1,0 +1,16 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+li.logo {
+    margin-right: auto;
+}
+
+.navbar {
+    display: flex;
+    list-style-type: none;
+    padding: 30px 30px;
+    gap: 30px;
+    border-bottom: 1px dotted;
+}
